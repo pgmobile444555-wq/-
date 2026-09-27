@@ -1,0 +1,6 @@
+{
+  "name": "Sa Kaeo Smart Incident Dispatch (ระบบแจ้งเหตุฉุกเฉิน จ.สระแก้ว)",
+  "description": "ระบบรับแจ้งเหตุฉุกเฉินและช่วยเหลือประชาชน จังหวัดสระแก้ว พร้อมระบบยืนยันตัวตน แผนที่โต้ตอบ คัดกรองระดับความเร่งด่วนด้วย AI และแจ้งเตือนผ่าน Line OA",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
